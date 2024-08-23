@@ -1,0 +1,7 @@
+/home/simone/TMP2/learningapp/bin/Publish/learningapp
+/home/simone/TMP2/learningapp/bin/Publish/appsettings.Development.json
+/home/simone/TMP2/learningapp/bin/Publish/appsettings.json
+/home/simone/TMP2/learningapp/bin/Publish/learningapp.dll
+/home/simone/TMP2/learningapp/bin/Publish/learningapp.deps.json
+/home/simone/TMP2/learningapp/bin/Publish/learningapp.runtimeconfig.json
+/home/simone/TMP2/learningapp/bin/Publish/learningapp.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "43picVzeSdlBh0bVtn4BA/NgrRmC2/nMEtCo2F1o6n3GCKq63lrNBI7vS9hQabBO3VWXXdf0GUU92p2XWZUu/Q==",
+  "success": true,
+  "projectFilePath": "/home/simone/TMP2/learningapp/learningapp.csproj",
+  "expectedPackageFiles": [
+    "/home/simone/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/home/simone/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/home/simone/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.33/microsoft.netcore.app.host.linux-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
